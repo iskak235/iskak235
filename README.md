@@ -2,7 +2,8 @@
 <h3 align="center">Веб-программист | React & Django</h3>
 
 <p align="center">
-  <img src="me.jpg" width="180" style="border-radius: 50%;" />
+  <img src="me.jpg" width="180"![Uploading image.png…]()
+ style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Салам, мен Искек 👋</h1>
